@@ -1,2 +1,5 @@
-# Basic-Discord-Bot
-Basic Discord Bot Has Made With Python
+# Basic Discord Bot
+
+## Basic Discord Bot Has Made With Python
+
+# `Enjoy !`
